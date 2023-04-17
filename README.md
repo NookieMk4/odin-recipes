@@ -1,4 +1,4 @@
 # odin-recipes
 Try cooking
 
-Live site:
+Live at: https://ratrobot.github.io/odin-recipes/
